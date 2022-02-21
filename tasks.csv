@@ -1,7 +1,9 @@
-Sr. No,Tasks,Description,date,estimated_date,status,Scheduled Date,Estimated Time,Status(pending/done)
-1,ip project,make project about  time managemengt system,11112021.0,154.0,pending,,,
-2,random,,11112021.0,215.0,pending,,,
-3,test3,,,,,11112020.0,165.0,pending
-4,test4,,,,,11112020.0,154.0,pending
-5,test5,,,,,11112020.0,157.0,pending
-6,test6,,,,,11112020,121,pending
+Sr. No,Tasks,Description,Scheduled Date,Estimated Time,Status(pending/done)
+1,test task 1, task directly put in the the csv file,11112020,152,done
+2,test2,,11112020,152,pending
+3,test3,,11112020,1526,pending
+4,test4,,11112020,154,pending
+5,test5,,11112020,164,pending
+6,test6,,11112022,15475,pending
+7,test7,,11112022,1575,pending
+8,test8,,21022022,154,pending
