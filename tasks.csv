@@ -1,9 +1,14 @@
-Sr. No,Tasks,Description,Scheduled Date,Estimated Time,Status(pending/done)
-1,test task 1, task directly put in the the csv file,11112020,152,done
-2,test2,,11112020,152,pending
-3,test3,,11112020,1526,pending
-4,test4,,11112020,154,pending
-5,test5,,11112020,164,pending
-6,test6,,11112022,15475,pending
-7,test7,,11112022,1575,pending
-8,test8,,21022022,154,pending
+Sr. No,Tasks,Description,Scheduled Date,Start Time,End Time,Status(pending/done)
+1,test task 1, task directly put in the the csv file,11-11-2020,,,done
+2,test2,,11-11-2020,,,pending
+3,test3,,11-11-2020,,,pending
+4,test4,,11-11-2020,,,pending
+5,test5,,11-11-2020,,,pending
+6,test6,,11-11-2020,,,pending
+7,test7,,11-11-2020,,,pending
+8,test8,,20-02-2022,,,pending
+9,test9,,02-02-2020,,,pending
+10,test9,,02-02-2020,,,pending
+11,test9,,02-02-2020,23:10,23:50,pending
+12,test11,,02-02-2022,00:51,1:21,pending
+13,test12,,02-02-2022,22:40,23:00,pending
