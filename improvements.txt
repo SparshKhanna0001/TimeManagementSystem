@@ -1,3 +1,4 @@
 1) Make the warning that shows up when you put wrong input, red
 2) Adjust absolute path maker so that paths work out with Linux and MacOS systems.
 3) Make the CSV file realistic.
+4) Make an attractive README.
