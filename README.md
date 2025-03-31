@@ -1,6 +1,3 @@
-Sure, here is the final `README.md` content based on the provided code:
-
-
 # Time Management System
 
 This is a simple Time Management System written in Python. It allows users to manage tasks, view schedules, and analyze productivity through graphical representations.
@@ -75,7 +72,7 @@ MIT License
 ```
 MIT License
 
-Copyright (c) 2025 Sparsh Khanna
+Copyright (c) 2025 Sparsh Khanna & Rishabh Sharma
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
