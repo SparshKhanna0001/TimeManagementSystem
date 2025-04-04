@@ -95,3 +95,13 @@ SOFTWARE.
 ```
 
 Feel free to copy and paste this content into your `README.md` file. Let me know if you need any further assistance!
+```
+
+# Contribution
+
+| **Sparsh Khanna**  | **Rishabh Sharma** |
+|-----------------|-----------------|
+| Row 1 Col 1     | Row 1 Col 2     |
+| Row 2 Col 1     | Row 2 Col 2     |
+
+        ** FINAL VERDICT ** : 
